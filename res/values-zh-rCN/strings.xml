@@ -1097,5 +1097,5 @@
     <string name="sound_category_feedback_title" msgid="4399742321363475393">"反馈"</string>
 
     <string name="cm_settings_title">CyanogenMod 设置</string>
-    <string name="launcher_settings_title">ADW 启动器</string>
+    <string name="launcher_settings_title">ADW 主屏幕</string>
 </resources>
